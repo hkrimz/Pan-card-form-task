@@ -1,0 +1,30 @@
+        * {
+            background-color: rgb(250, 250, 114)
+        }
+
+        .heading {
+            text-align: center;
+            background-color: aqua;   
+          border: 1px solid black;
+        }
+        
+        table 
+        td {
+            border: 1px solid black;
+            width: 100%;
+            
+        }
+
+        th {
+            border: 1px solid black;
+
+        }
+        .upload {
+            margin: 0 60px;
+        }    
+
+        
+         button 
+        {
+            margin: 50px 0px 0px 500px;
+         } 
